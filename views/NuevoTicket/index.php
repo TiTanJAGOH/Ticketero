@@ -61,12 +61,12 @@
 							</fieldset>
 						</div>
 
-						<div class="col-lg-6">
+					<!-- <div class="col-lg-6">
 							<fieldset class="form-group">
 								<label class="form-label semibold" for="exampleInput">Documentos Adicionales</label>
 								<input type="file" name="fileElem" id="fileElem" class="form-control" multiple>
 							</fieldset>
-						</div>
+						</div> -->
 
 						<div class="col-lg-12">
 							<fieldset class="form-group">
